@@ -7,7 +7,7 @@
       <div class="title-box"></div>
 
       <!-- 表单 -->
-      <el-form ref="loginform" :model="loginform" :rules="loginrulesObj">
+      <el-form ref="loginform" :model="loginform" :rules="loginrulesObj" width="80%">
 
         <el-form-item prop="username">
           <el-input placeholder="请输入用户名" v-model="loginform.username"></el-input>

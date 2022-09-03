@@ -5,13 +5,7 @@
 
 <script>
 // import { getuserInfoAPI } from '@/api/index.js'
-export default {
-  // created () {
-  //   getuserInfoAPI().then(res => {
-  //     console.log(res)
-  //   })
-  // }
-}
+export default {}
 </script>
 
 <style scoped>
